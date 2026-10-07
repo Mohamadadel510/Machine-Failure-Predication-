@@ -286,9 +286,5 @@ The dataset is available from the [UCI Machine Learning Repository](https://arch
 
 ## Author
 
-**Mohamed** — Computer and Communication Engineering, Mansoura University
-[GitHub](https://github.com/<your-username>) · [LinkedIn](https://www.linkedin.com/in/<your-handle>)
-
-## License
-
-Add a license of your choice (for example MIT) as a `LICENSE` file. The dataset remains under its own CC BY 4.0 license.
+**Mohamed Badawy** — Computer and Communication Engineering, Mansoura University
+[GitHub](https://github.com/Mohamadadel510) · [LinkedIn](https://www.linkedin.com/in/eng-mohamed-badwy)
